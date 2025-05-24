@@ -54,6 +54,6 @@ Zorg dat je de `input`-map niet verplaatst.
 -   Probeer stap voor stap te ontdekken wat elk script doet.
 -   Gewoon proberen = leren!
 
-Kom je er niet uit? Stuur me dan een DM op Instagram naar @codewithnicky of stuur een e-mail naar nicky@nkacademy.nl
+Kom je er niet uit? Stuur me dan een DM op Instagram naar @codewithnicky (https://www.instagram.com/codewithnicky/) of stuur een e-mail naar nicky@nkacademy.nl
 
 Veel plezier met Python! 🐍🎉
