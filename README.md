@@ -66,7 +66,7 @@ Dit script bekijkt of producten in de aanbieding zijn bij de webshop Loavies. Hi
 
 Voor dit script heb je iets nodig dat niet standaard in Python zit. Gelukkig kun je dat heel makkelijk installeren met één regel code.
 
-1.  Open een terminal of opdrachtprompt (op Windows: zoek op 'Opdrachtprompt' of 'Command promp', op Mac: gebruik Spotlight en typ 'Terminal')
+1.  Open een terminal of opdrachtprompt (op Windows: zoek op 'Opdrachtprompt' of 'Command promp', op Mac: zoek op 'Terminal')
 
 2.  Typ dan dit commando in en druk op enter:
 ```bash
@@ -74,12 +74,12 @@ pip install requests beautifulsoup4
 ```
 
 ### Stap 2: Input-folder
-Dit script gebruikt een tekstbestandje met linkjes van producten. Zorg dat je in dezelfde map als waar het `loavies_sale_checker.py` script staat een mapje maakt met de naam `input`, en daarin het bestandje genaamd `product_linkjes.txt` stopt.  📄 Die kun je downloaden uit de input-folder hier op GitHub.
+Dit script gebruikt een tekstbestandje met linkjes van producten. Zorg dat je in dezelfde map als waar het `loavies_sale_checker.py` script staat een mapje maakt met de naam `input`, en daarin het bestandje genaamd `product_linkjes.txt` stopt. 📄 Die kun je downloaden uit de input-folder hier op GitHub.
 
 Zorg dat de `input`-map op dezelfde locatie staat als het script.
 
 ### Stap 3: Uitvoeren
-Je kunt dit script ook openen in IDLE en uitvoeren met **Run > Run Module** of via de terminal (zoals hierboven uitgelegd bij “Script uitvoeren”).
+Je kunt dit script ook openen in IDLE en uitvoeren met **Run > Run Module** (zoals hierboven uitgelegd bij “Script uitvoeren”).
 
 
 ## Tips
@@ -90,5 +90,8 @@ Je kunt dit script ook openen in IDLE en uitvoeren met **Run > Run Module** of v
 
 Kom je er niet uit? Stuur me dan een DM op Instagram naar @codewithnicky (https://www.instagram.com/codewithnicky/) of stuur een e-mail naar nicky@nkacademy.nl
 
+## Online cursus Python voor Niet-Programmeurs
+
+Vind je dit leuk en wil jij zelf ook toffe scripts kunnen bouwen met Python om je eigen ideeën tot leven te brengen? Doe dan mee met mijn online cursus Python voor Niet-Programmeurs!
 
 Veel plezier met Python! 🐍🎉
