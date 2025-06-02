@@ -1,5 +1,17 @@
-import requests
-from bs4 import BeautifulSoup
+try:
+    import requests
+except ImportError:
+    print("Je mist een stukje dat nodig is voor dit script: 'requests'.")
+    print("Open een terminal en voer dit uit: pip install requests")
+    print("Meer informatie in de README.md")
+    exit(1)
+try:
+    from bs4 import BeautifulSoup
+except ImportError:
+    print("Je mist een stukje dat nodig is voor dit script: 'beautifulsoup4'.")
+    print("Open een terminal en voer dit uit: pip install beautifulsoup4")
+    print("Meer informatie in de README.md")
+    exit(1)
 import re
 
 print("\nWELKOM BIJ DE LOAVIES PRODUCT SALE CHECKER!")
