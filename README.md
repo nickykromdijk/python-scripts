@@ -92,6 +92,6 @@ Kom je er niet uit? Stuur me dan een DM op Instagram naar @codewithnicky (https:
 
 ## Online cursus Python voor Niet-Programmeurs
 
-Vind je dit leuk en wil jij zelf ook toffe scripts kunnen bouwen met Python om je eigen ideeën tot leven te brengen? Doe dan mee met mijn online cursus Python voor Niet-Programmeurs! Inschrijven en meer informatie vind je hier: https://nkacademy.nl/python-voor-niet-programmeurs 
+Vind je dit leuk en wil jij zelf ook toffe scripts kunnen bouwen met Python om je eigen ideeën tot leven te brengen? Doe dan mee met mijn online cursus Python voor Niet-Programmeurs! Meer informatie over de cursus en hoe je je kunt inschrijven vind je hier: https://nkacademy.nl/python-voor-niet-programmeurs
 
 Veel plezier met Python! 🐍🎉
