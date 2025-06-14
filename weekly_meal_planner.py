@@ -98,7 +98,7 @@ def parse_ingredient(ingredient):
 
 def genereer_weekmenu(aantal_maaltijden, aantal_personen):
     beschikbare_maaltijden = list(maaltijden.keys())
-    gekozen_maaltijden = random.sample(
+    gekozen_maaltijden = random.sample( 
         beschikbare_maaltijden, aantal_maaltijden
     )
 

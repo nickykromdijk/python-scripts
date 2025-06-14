@@ -2,9 +2,9 @@
 
 # 🐍 Simpele Python-scripts voor beginners
 
-Welkom! In deze map vind je leuke Python-scripts die (soms) dingen doen met data uit de `input`-folder.
+Welkom! In deze map vind je leuke Python-scripts die jouw leven makkelijker maken.
 
-Deze scripts zijn bedoeld voor mensen die net beginnen met programmeren. Je hebt geen ervaring nodig! Lees goed deze handleiding.
+Deze scripts zijn bedoeld voor mensen die net beginnen met programmeren (met Python). Je hebt geen ervaring nodig! Lees deze handleiding goed.
 
 ## Wat heb je nodig?
 
@@ -38,7 +38,9 @@ Bij Python zit standaard ook het programma **IDLE** (Integrated Development and 
 
 3. Het script opent nu in een apart venster. Klik op **Run > Run Module** of druk op **F5** om het script uit te voeren. Je ziet nu de output van het script in een nieuw wit venster (de Python Shell).
 
-4. Wil je het script opnieuw uitvoeren? Herhaal dan stap 3. Let op: doe dit in het script, niet in het in nieuwe venster met de output (de Python Shell).
+4. Wanneer het script om input van jou vraagt, kun je dat intypen en op de enter-toets drukken om je input in te voeren.
+
+5. Ging er wat mis of wil je het script opnieuw uitvoeren? Herhaal dan stap 3. Let op: doe dit in het script, niet in het in nieuwe venster met de output (de Python Shell).
 
 
 
@@ -92,6 +94,6 @@ Kom je er niet uit? Stuur me dan een DM op Instagram naar @codewithnicky (https:
 
 ## Online cursus Python voor Niet-Programmeurs
 
-Vind je dit leuk en wil jij zelf ook toffe scripts kunnen bouwen met Python om je eigen ideeën tot leven te brengen? Doe dan mee met mijn online cursus Python voor Niet-Programmeurs! Meer informatie over de cursus en hoe je je kunt inschrijven vind je hier: https://nkacademy.nl/python-voor-niet-programmeurs
+Vind je dit leuk en wil jij zelf ook toffe scripts kunnen bouwen met Python om je eigen ideeën tot leven te brengen? Of zou je graag wat extra hulp willen? Doe dan mee met mijn online cursus Python voor Niet-Programmeurs! Meer informatie over de cursus en hoe je je kunt inschrijven vind je hier: https://nkacademy.nl/python-voor-niet-programmeurs/?utm_source=github&utm_medium=referral&utm_campaign=course_launch2&utm_content=readme
 
 Veel plezier met Python! 🐍🎉
